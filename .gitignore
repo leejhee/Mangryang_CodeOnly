@@ -1,0 +1,27 @@
+# Local build and IDE outputs
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]in/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+DataGenerator/packages/
+
+# Credentials and machine-local configuration
+.env
+.env.*
+*.keystore
+*.jks
+*.pfx
+*.p12
+
+# OS files
+.DS_Store
+Thumbs.db

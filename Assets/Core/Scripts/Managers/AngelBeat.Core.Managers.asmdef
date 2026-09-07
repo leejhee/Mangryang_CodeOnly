@@ -1,0 +1,21 @@
+﻿{
+  "name": "AngelBeat.Core.Managers",
+  "references": [
+    "AngelBeat.Core.GameSave.Contracts",
+    "AngelBeat.Core.Foundation",
+    "AngelBeat.Core.GameSave",
+    "AngelBeat.Core.Data",
+    "UniTask",
+    "UniTask.Addressables",
+    "Unity.ResourceManager",
+    "Unity.Addressables",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

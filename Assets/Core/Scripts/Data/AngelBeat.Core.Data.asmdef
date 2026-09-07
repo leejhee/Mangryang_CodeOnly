@@ -1,0 +1,14 @@
+﻿{
+  "name": "AngelBeat.Core.Data",
+  "references": [
+    "AngelBeat.Core.Foundation",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

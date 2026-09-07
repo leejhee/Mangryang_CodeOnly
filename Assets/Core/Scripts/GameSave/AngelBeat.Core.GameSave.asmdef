@@ -1,0 +1,17 @@
+{
+    "name": "AngelBeat.Core.GameSave",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d8708c7a53ae494e8fdf5a058dac8833",
+        "GUID:bbf2c26d205e4c3dba3971a9e879b353"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
